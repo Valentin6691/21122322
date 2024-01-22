@@ -1,0 +1,14 @@
+C:\Users\ALFA\Desktop\Shepelevich\7-Буткемп\Разработчик\0-РазработчикЧем занимется\Work\bin\Debug\net8.0\Work.exe
+C:\Users\ALFA\Desktop\Shepelevich\7-Буткемп\Разработчик\0-РазработчикЧем занимется\Work\bin\Debug\net8.0\Work.deps.json
+C:\Users\ALFA\Desktop\Shepelevich\7-Буткемп\Разработчик\0-РазработчикЧем занимется\Work\bin\Debug\net8.0\Work.runtimeconfig.json
+C:\Users\ALFA\Desktop\Shepelevich\7-Буткемп\Разработчик\0-РазработчикЧем занимется\Work\bin\Debug\net8.0\Work.dll
+C:\Users\ALFA\Desktop\Shepelevich\7-Буткемп\Разработчик\0-РазработчикЧем занимется\Work\bin\Debug\net8.0\Work.pdb
+C:\Users\ALFA\Desktop\Shepelevich\7-Буткемп\Разработчик\0-РазработчикЧем занимется\Work\obj\Debug\net8.0\Work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALFA\Desktop\Shepelevich\7-Буткемп\Разработчик\0-РазработчикЧем занимется\Work\obj\Debug\net8.0\Work.AssemblyInfoInputs.cache
+C:\Users\ALFA\Desktop\Shepelevich\7-Буткемп\Разработчик\0-РазработчикЧем занимется\Work\obj\Debug\net8.0\Work.AssemblyInfo.cs
+C:\Users\ALFA\Desktop\Shepelevich\7-Буткемп\Разработчик\0-РазработчикЧем занимется\Work\obj\Debug\net8.0\Work.csproj.CoreCompileInputs.cache
+C:\Users\ALFA\Desktop\Shepelevich\7-Буткемп\Разработчик\0-РазработчикЧем занимется\Work\obj\Debug\net8.0\Work.dll
+C:\Users\ALFA\Desktop\Shepelevich\7-Буткемп\Разработчик\0-РазработчикЧем занимется\Work\obj\Debug\net8.0\refint\Work.dll
+C:\Users\ALFA\Desktop\Shepelevich\7-Буткемп\Разработчик\0-РазработчикЧем занимется\Work\obj\Debug\net8.0\Work.pdb
+C:\Users\ALFA\Desktop\Shepelevich\7-Буткемп\Разработчик\0-РазработчикЧем занимется\Work\obj\Debug\net8.0\Work.genruntimeconfig.cache
+C:\Users\ALFA\Desktop\Shepelevich\7-Буткемп\Разработчик\0-РазработчикЧем занимется\Work\obj\Debug\net8.0\ref\Work.dll
