@@ -1,4 +1,4 @@
-﻿string[] array = {"if", "console", "for", "12345", "000", "78654", "+A"};
+﻿string[] array = {"if", "the", "console", "for", "a", "file", "doesn't", "work", ",", "send", "it", "to", "the", "trash"};
 Console.WriteLine($"{String.Join(' ', array)}");
 Console.WriteLine("Размер нового массива: " + SizeNewArray(array));
 ArrayConversion(array, SizeNewArray(array));
@@ -27,7 +27,6 @@ void ArrayConversion(string[] arr, int size)
             string[] arr1 = new string[size];
             int j = 0;
             arr1[j] = arr[i];
-            // j++;    
             Console.Write(arr1[j] + " ");
         }
     }
