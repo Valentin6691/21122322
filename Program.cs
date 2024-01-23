@@ -9,12 +9,11 @@ void ArrayConversion(string[] arr)
     int length = arr[i].Length;
         if(length < 4)
         {
-            
+            Console.Write(arr[i] + ",");
         }
         else
         {
             arr[i] = "";
         }
     }
-    Console.WriteLine($"[{String.Join(',' ,arr)}]");
 }
